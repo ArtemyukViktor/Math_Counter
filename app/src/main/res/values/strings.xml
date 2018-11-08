@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Math_Counter</string>
+    <string name="play">PLAY</string>
+    <string name="options">OPTIONS</string>
+    <string name="exit">EXIT</string>
+
+    <string name="button">Button</string>
+    <string name="top">top</string>
+    <string name="player_name">player_name</string>
+
+
+    <string name="textViewMain">Text View</string>
+    <string name="text_view">Text View</string>
+
+    <string name="return_main">Return</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+
+    <string name="music">Music</string>
+    <string name="game_type">Game type</string>
+    <string name="save">save</string>
+
+    <string name="random">Random</string>
+
+    <string name="game_type_">Game level</string>
+    <string name="random_">random</string>
+    <string name="music_">music</string>
+    <string name="return_main_">return_main</string>
+    <string name="save_">save</string>
+    <string name="easy_">easy</string>
+    <string name="medium_">medium</string>
+    <string name="hard_">hard</string>
+
+    <string name="set_default_options_">Set default Options</string>
+    <string name="nameplayer">NamePlayer</string>
+    <string name="add_name">Add name</string>
+    <string name="type">Type</string>
+
+
+    <string-array name="Sine">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="top4">TOP4</string>
+    <string name="top_5">TOP 5</string>
+    <string name="top2">TOP2</string>
+    <string name="top3">TOP3</string>
+    <string name="pysto" />
+
+
+</resources>
